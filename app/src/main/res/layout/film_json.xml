@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+<!--    [-->
+<!--    {-->
+<!--    "judul": "Inception",-->
+<!--    "tahun_rilis": 2010,-->
+<!--    "sutradara": {-->
+<!--    "nama": "Christopher Nolan",-->
+<!--    "negara": "Inggris"-->
+<!--    },-->
+<!--    "aktor_utama": ["Leonardo DiCaprio", "Joseph Gordon-Levitt"],-->
+<!--    "genre": ["Action", "Sci-Fi"],-->
+<!--    "ulasan": [-->
+<!--    {-->
+<!--    "ulasan_penulis": "Roger Ebert",-->
+<!--    "rating": 4.5-->
+<!--    },-->
+<!--    {-->
+<!--    "ulasan_penulis": "Peter Travers",-->
+<!--    "rating": 5-->
+<!--    }-->
+<!--    ]-->
+<!--    },-->
+<!--    {-->
+<!--    "judul": "The Shawshank Redemption",-->
+<!--    "tahun_rilis": 1994,-->
+<!--    "sutradara": {-->
+<!--    "nama": "Frank Darabont",-->
+<!--    "negara": "Amerika Serikat"-->
+<!--    },-->
+<!--    "aktor_utama": ["Tim Robbins", "Morgan Freeman"],-->
+<!--    "genre": ["Drama", "Crime"],-->
+<!--    "ulasan": [-->
+<!--    {-->
+<!--    "ulasan_penulis": "Rotten Tomatoes",-->
+<!--    "rating": 9.3-->
+<!--    },-->
+<!--    {-->
+<!--    "ulasan_penulis": "IMDb",-->
+<!--    "rating": 9.3-->
+<!--    }-->
+<!--    ]-->
+<!--    },-->
+<!--    {-->
+<!--    "judul": "The Dark Knight",-->
+<!--    "tahun_rilis": 2008,-->
+<!--    "sutradara": {-->
+<!--    "nama": "Christopher Nolan",-->
+<!--    "negara": "Inggris"-->
+<!--    },-->
+<!--    "aktor_utama": ["Christian Bale", "Heath Ledger"],-->
+<!--    "genre": ["Action", "Crime"],-->
+<!--    "ulasan": [-->
+<!--    {-->
+<!--    "ulasan_penulis": "Roger Ebert",-->
+<!--    "rating": 4.5-->
+<!--    },-->
+<!--    {-->
+<!--    "ulasan_penulis": "Peter Travers",-->
+<!--    "rating": 5-->
+<!--    }-->
+<!--    ]-->
+<!--    },-->
+<!--    {-->
+<!--    "judul": "Pulp Fiction",-->
+<!--    "tahun_rilis": 1994,-->
+<!--    "sutradara": {-->
+<!--    "nama": "Quentin Tarantino",-->
+<!--    "negara": "Amerika Serikat"-->
+<!--    },-->
+<!--    "aktor_utama": ["John Travolta", "Uma Thurman"],-->
+<!--    "genre": ["Crime", "Drama"],-->
+<!--    "ulasan": [-->
+<!--    {-->
+<!--    "ulasan_penulis": "Rotten Tomatoes",-->
+<!--    "rating": 9.4-->
+<!--    },-->
+<!--    {-->
+<!--    "ulasan_penulis": "IMDb",-->
+<!--    "rating": 8.9-->
+<!--    }-->
+<!--    ]-->
+<!--    },-->
+<!--    {-->
+<!--    "judul": "Interstellar",-->
+<!--    "tahun_rilis": 2014,-->
+<!--    "sutradara": {-->
+<!--    "nama": "Christopher Nolan",-->
+<!--    "negara": "Inggris"-->
+<!--    },-->
+<!--    "aktor_utama": ["Matthew McConaughey", "Anne Hathaway"],-->
+<!--    "genre": ["Sci-Fi", "Adventure"],-->
+<!--    "ulasan": [-->
+<!--    {-->
+<!--    "ulasan_penulis": "Rotten Tomatoes",-->
+<!--    "rating": 8.6-->
+<!--    },-->
+<!--    {-->
+<!--    "ulasan_penulis": "IMDb",-->
+<!--    "rating": 8.6-->
+<!--    }-->
+<!--    ]-->
+<!--    },-->
+<!--    {-->
+<!--    "judul": "Forrest Gump",-->
+<!--    "tahun_rilis": 1994,-->
+<!--    "sutradara": {-->
+<!--    "nama": "Robert Zemeckis",-->
+<!--    "negara": "Amerika Serikat"-->
+<!--    },-->
+<!--    "aktor_utama": ["Tom Hanks", "Robin Wright"],-->
+<!--    "genre": ["Drama", "Romance"],-->
+<!--    "ulasan": [-->
+<!--    {-->
+<!--    "ulasan_penulis": "Rotten Tomatoes",-->
+<!--    "rating": 8.8-->
+<!--    },-->
+<!--    {-->
+<!--    "ulasan_penulis": "IMDb",-->
+<!--    "rating": 8.8-->
+<!--    }-->
+<!--    ]-->
+<!--    },-->
+<!--    {-->
+<!--    "judul": "The Godfather",-->
+<!--    "tahun_rilis": 1972,-->
+<!--    "sutradara": {-->
+<!--    "nama": "Francis Ford Coppola",-->
+<!--    "negara": "Amerika Serikat"-->
+<!--    },-->
+<!--    "aktor_utama": ["Marlon Brando", "Al Pacino"],-->
+<!--    "genre": ["Crime", "Drama"],-->
+<!--    "ulasan": [-->
+<!--    {-->
+<!--    "ulasan_penulis": "Rotten Tomatoes",-->
+<!--    "rating": 9.2-->
+<!--    },-->
+<!--    {-->
+<!--    "ulasan_penulis": "IMDb",-->
+<!--    "rating": 9.2-->
+<!--    }-->
+<!--    ]-->
+<!--    },-->
+<!--    {-->
+<!--    "judul": "The Matrix",-->
+<!--    "tahun_rilis": 1999,-->
+<!--    "sutradara": {-->
+<!--    "nama": "Lana Wachowski",-->
+<!--    "negara": "Amerika Serikat"-->
+<!--    },-->
+<!--    "aktor_utama": ["Keanu Reeves", "Laurence Fishburne"],-->
+<!--    "genre": ["Action", "Sci-Fi"],-->
+<!--    "ulasan": [-->
+<!--    {-->
+<!--    "ulasan_penulis": "Rotten Tomatoes",-->
+<!--    "rating": 8.7-->
+<!--    },-->
+<!--    {-->
+<!--    "ulasan_penulis": "IMDb",-->
+<!--    "rating": 8.7-->
+<!--    }-->
+<!--    ]-->
+<!--    },-->
+<!--    {-->
+<!--    "judul": "Fight Club",-->
+<!--    "tahun_rilis": 1999,-->
+<!--    "sutradara": {-->
+<!--    "nama": "David Fincher",-->
+<!--    "negara": "Amerika Serikat"-->
+<!--    },-->
+<!--    "aktor_utama": ["Brad Pitt", "Edward Norton"],-->
+<!--    "genre": ["Drama"],-->
+<!--    "ulasan": [-->
+<!--    {-->
+<!--    "ulasan_penulis": "Rotten Tomatoes",-->
+<!--    "rating": 8.8-->
+<!--    },-->
+<!--    {-->
+<!--    "ulasan_penulis": "IMDb",-->
+<!--    "rating": 8.8-->
+<!--    }-->
+<!--    ]-->
+<!--    },-->
+<!--    {-->
+<!--    "judul": "The Lord of the Rings: The Fellowship of the Ring",-->
+<!--    "tahun_rilis": 2001,-->
+<!--    "sutradara": {-->
+<!--    "nama": "Peter Jackson",-->
+<!--    "negara": "Selandia Baru"-->
+<!--    },-->
+<!--    "aktor_utama": ["Elijah Wood", "Ian McKellen"],-->
+<!--    "genre": ["Adventure", "Fantasy"],-->
+<!--    "ulasan": [-->
+<!--    {-->
+<!--    "ulasan_penulis": "Rotten Tomatoes",-->
+<!--    "rating": 8.8-->
+<!--    },-->
+<!--    {-->
+<!--    "ulasan_penulis": "IMDb",-->
+<!--    "rating": 8.8-->
+<!--    }-->
+<!--    ]-->
+<!--    }-->
+<!--    ]-->

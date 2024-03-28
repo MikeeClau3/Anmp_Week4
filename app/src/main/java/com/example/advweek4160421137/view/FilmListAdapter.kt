@@ -7,8 +7,8 @@ import com.example.advweek4160421137.databinding.FragmentStudentListBinding
 import com.example.advweek4160421137.model.Student
 
 
-class StudentListAdapter(val studentList:ArrayList<Student>)
-    : RecyclerView.Adapter<StudentListAdapter.StudentViewHolder>() { //isinya view holder
+class FilmListAdapter(val studentList:ArrayList<Student>)
+    : RecyclerView.Adapter<FilmListAdapter.StudentViewHolder>() { //isinya view holder
     class StudentViewHolder(val binding: FragmentStudentListBinding)
         : RecyclerView.ViewHolder(binding.root)
 
